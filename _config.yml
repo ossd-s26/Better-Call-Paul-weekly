@@ -17,12 +17,13 @@ description: CS Major
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /better-call-paul-weekly/images/icon.png 
+avatar: /Better-Call-Paul-weekly/images/icon.png 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
 # the "Read more ..." link apprears 
 excerpt_separator: <!--more-->
+future: true
 
 # CUSTOMIZE
 #
@@ -50,14 +51,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s26.github.io/better-call-paul-weekly"
+url: "https://ossd-s26.github.io/Better-Call-Paul-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/better-call-paul-weekly"
+baseurl: "/Better-Call-Paul-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
