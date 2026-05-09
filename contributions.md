@@ -28,6 +28,13 @@ Replace the first row with your own contribution.
 | Mar 25   | [Frosty](https://github.com/bbranduhn/frosty), [Issue #512](https://github.com/tommyxchow/frosty/issues/512)    | Frosty for Twitch    | Working on the double play button issue, have isolated where it occurs in the codebase.   |
 | Mar 27   | [Frosty](https://github.com/bbranduhn/frosty), [PR #543](https://github.com/tommyxchow/frosty/pull/543)    | Frosty for Twitch    | Submitted PR fixing the double play button issue.   |
 | Apr 20   | [Frosty](https://github.com/bbranduhn/frosty), [PR #552](https://github.com/tommyxchow/frosty/pull/552)    | Frosty for Twitch    | Submitted PR adding a default 30-minute sleep timer to prevent excess battery drain.   |
+| Mar 17   | [GEMM](https://github.com/Better-Call-Paul/GEMM), [840f3f2](https://github.com/Better-Call-Paul/GEMM/commit/840f3f2032f18a8368ed7e11972b0d4af41de58e)    | CUDA GEMM kernels    | Added initial benchmarking harness for GEMM kernel performance testing.    |
+| Mar 18   | [GEMM](https://github.com/Better-Call-Paul/GEMM), [00a2be6](https://github.com/Better-Call-Paul/GEMM/commit/00a2be631ef87f075246e93846f5b0f1a830ec5a)    | CUDA GEMM kernels    | TMA (Tensor Memory Accelerator) tinkering and exploration.    |
+| Mar 27   | [GEMM](https://github.com/Better-Call-Paul/GEMM), [4075fb9](https://github.com/Better-Call-Paul/GEMM/commit/4075fb91b4478423db6d56489db53fdefa50b67c)    | CUDA GEMM kernels    | Added pipelined GEMM kernel implementation.    |
+| Apr 3   | [GEMM](https://github.com/Better-Call-Paul/GEMM), [f86a4e1](https://github.com/Better-Call-Paul/GEMM/commit/f86a4e1a6b3cbdad1d5fe8d28e6a0dd8a4ffe2a0)    | CUDA GEMM kernels    | Working warp specialization implementation.    |
+| Apr 7   | [GEMM](https://github.com/Better-Call-Paul/GEMM), [e72e957](https://github.com/Better-Call-Paul/GEMM/commit/e72e957a7714a09a5643215f1fcbcb85aed082b5)    | CUDA GEMM kernels    | Added intra-kernel profiling support.    |
+| Apr 23   | [GEMM](https://github.com/Better-Call-Paul/GEMM), [4975b5e](https://github.com/Better-Call-Paul/GEMM/commit/4975b5e4e5a7553adc449469818a548edb8515e4)    | CUDA GEMM kernels    | Added L2 side-aware kernels for improved cache locality.    |
+| May 9   | [blackwell_gemm](https://github.com/Better-Call-Paul/blackwell_gemm), [Blog: Outperforming cuBLAS on B200](https://www.paulwillchan.com/articles/outperforming-cublas-b200)    | CUDA GEMM kernels    | Wrote a blog post detailing the techniques used to outperform cuBLAS on NVIDIA B200.    |
 
 
 
